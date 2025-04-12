@@ -1,4 +1,5 @@
 # PDF 安全管理系统 v1.0
+[English](README.md) | [中文](README.zh-CN.md)
 
 [![Python 版本](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![许可证](https://img.shields.io/badge/license-MIT-green)](LICENSE)

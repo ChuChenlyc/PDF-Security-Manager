@@ -1,4 +1,5 @@
 # PDF Security Manager v1.0
+[English](README.md) | [中文](README.zh-CN.md)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
